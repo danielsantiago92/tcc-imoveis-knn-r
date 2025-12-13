@@ -1,0 +1,501 @@
+Cidade,Bairro,Tipo_imovel,Area(m²),Quartos,Banheiros,Vagas,Preco(R$),Condominio(R$),Andar,Portaria 24h
+Rio de Janeiro,Flamengo,Apto,263,4,6,1,2700000,2300,3,sim
+Rio de Janeiro,Flamengo,Apto,113,3,2,1,1050000,1700,2,sim
+Rio de Janeiro,Centro,Apto,16,1,1,0,130000,500,2,sim
+Rio de Janeiro,Flamengo,Apto,66,2,2,0,670000,1200,2,sim
+Rio de Janeiro,Leblon,Apto,257,4,4,3,5900000,5670,8,sim
+Rio de Janeiro,São Conrado,Casa,552,4,6,9,3950000,1379,0,sim
+Rio de Janeiro,Ipanema,Apto,140,4,6,1,2790000,3025,4,não
+Rio de Janeiro,Lebon,Apto,230,4,6,3,4900000,4500,14,sim
+Rio de Janeiro,Lagoa,Apto,185,3,1,2,3200000,2418,5,sim
+Rio de Janeiro,Humaitá,Apto,270,3,4,2,2800000,680,3,não
+Rio de Janeiro,Leblon,Apto,131,3,3,2,3400000,3321,14,sim
+Rio de Janeiro,Leblon,Apto,269,3,5,2,4500000,5545,19,sim
+Rio de Janeiro,Laranjeiras,Apto,110,3,2,0,1000000,1400,1,sim
+Rio de Janeiro,Leblon,Apto,88,2,1,1,2500000,1225,3,sim
+Rio de Janeiro,Lebon,Apto,71,2,2,2,2750000,3300,7,sim
+Rio de Janeiro,Barra Olímpica,Apto,75,3,2,1,649000,990,5,não
+Rio de Janeiro,Ipanema,Apto,85,2,3,2,2590000,2567,8,sim
+Rio de Janeiro,Barra da Tijuca,Apto,271,4,5,4,3800000,3100,19,sim
+Rio de Janeiro,Leblon,Apto,174,4,1,2,5000000,3180,23,sim
+Rio de Janeiro,Leblon,Apto,67,1,2,1,2000000,1200,5,sim
+Rio de Janeiro,Leblon,Apto,136,4,3,2,2300000,2830,3,sim
+Rio de Janeiro,Tomás Coelho,Casa,260,4,7,2,380000,0,0,não
+Rio de Janeiro,Inhaúma,Apto,52,2,1,0,170000,872,2,sim
+Rio de Janeiro,Flamengo,Apto,253,4,5,1,2400000,1000,1,sim
+Rio de Janeiro,Cascadura,Apto,52,2,1,1,220000,250,3,não
+Rio de Janeiro,Tijuca,Apto,97,3,3,1,560000,1223,6,sim
+Rio de Janeiro,Flamengo,Apto,128,2,4,1,1800000,2396,3,sim
+Rio de Janeiro,Santa Teresa,Apto,54,2,1,0,360000,642,1,não
+Rio de Janeiro,Barra Olímpica,Apto,88,3,3,1,550000,750,3,não
+Rio de Janeiro,Tomás Coelho,Apto,48,2,1,1,130000,349,1,sim
+Rio de Janeiro,Cachambi,Casa,206,4,3,0,600000,113,0,não
+Rio de Janeiro,Cachambi,Apto,60,2,2,0,265000,700,4,não
+Rio de Janeiro,Cachambi,Apto,46,1,2,1,165000,890,3,não
+Rio de Janeiro,Oswaldo Cruz,Apto,64,2,2,1,300000,560,2,sim
+Rio de Janeiro,Cachambi,Apto,85,2,3,1,450000,850,1,sim
+Rio de Janeiro,Pilares,Casa,365,2,1,0,300000,0,0,não
+Rio de Janeiro,Engenho da Rainha,Apto,54,2,1,2,205000,714,2,sim
+Rio de Janeiro,Engenho de Dentro,Apto,71,2,2,1,180000,770,1,sim
+Rio de Janeiro,Cachambi,Casa,66,2,1,1,200000,0,0,não
+Rio de Janeiro,Quintino Bocaiúva,Apto,60,2,1,1,200000,641,1,sim
+Rio de Janeiro,Botafogo,Apto,135,3,2,0,800000,850,3,sim
+Rio de Janeiro,Botafogo,Apto,116,3,2,1,1550000,700,4,sim
+Rio de Janeiro,Gávea,Apto,110,3,3,1,1590000,1830,9,sim
+Rio de Janeiro,Botafogo,Apto,63,2,1,0,590000,989,10,sim
+Rio de Janeiro,Ipanema,Apto,83,3,5,1,2700000,1954,2,sim
+Rio de Janeiro,Centro,Apto,25,1,1,0,110000,460,4,sim
+Rio de Janeiro,Glória,Apto,21,1,1,0,270000,500,3,não
+Rio de Janeiro,Glória,Apto,84,2,4,1,780000,1510,6,sim
+Rio de Janeiro,Catete,Apto,41,1,1,0,290000,580,2,não
+Rio de Janeiro,Centro,Apto,60,1,1,0,117000,1093,7,sim
+Rio de Janeiro,Centro,Apto,32,1,1,0,170000,830,11,sim
+Rio de Janeiro,Catete,Apto,54,1,1,0,250000,500,12,sim
+Rio de Janeiro,Ipanema,Apto,108,3,3,1,2600000,1600,17,sim
+Rio de Janeiro,Botafogo,Apto,63,2,1,0,590000,989,12,sim
+Rio de Janeiro,Botafogo,Apto,85,2,3,1,1450000,1500,11,sim
+Rio de Janeiro,Catete,Apto,42,1,1,0,380000,620,14,sim
+Rio de Janeiro,Leblon,Apto,95,3,3,2,2350000,2160,22,sim
+Rio de Janeiro,Anil,Apto,85,2,2,0,278470,121,10,sim
+Rio de Janeiro,Abolição,Apto,76,2,2,0,230000,300,7,sim
+Rio de Janeiro,Méier,Apto,83,2,3,1,420000,1359,14,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Casa,500,7,9,6,2599050,1100,0,sim
+Rio de Janeiro,Riachuelo,Apto,77,2,2,0,215000,755,3,não
+Rio de Janeiro,Campinho,Apto,54,3,1,0,155000,260,6,não
+Rio de Janeiro,Leblon,Apto,135,3,4,1,3600000,3700,19,sim
+Rio de Janeiro,Lins de Vasconcelos,Apto,60,3,2,1,175000,350,1,não
+Rio de Janeiro,Botafogo,Apto,42,1,1,0,550000,700,2,sim
+Rio de Janeiro,Todos os Santos,Apto,150,3,2,1,579000,1500,16,sim
+Rio de Janeiro,Méier,Casa,120,4,3,2,690000,20,0,não
+Rio de Janeiro,Benfica,Apto,60,2,1,1,295000,310,14,não
+Rio de Janeiro,Centro,Apto,52,1,1,0,324800,562,4,sim
+Rio de Janeiro,Méier,Apto,106,2,3,1,360000,850,23,sim
+Rio de Janeiro,Tijuca,Apto,53,2,2,0,380000,700,21,sim
+Rio de Janeiro,Engenho Novo,Apto,71,2,3,1,250000,850,12,sim
+Rio de Janeiro,Méier,Apto,182,3,6,2,1150000,2059,21,sim
+Rio de Janeiro,Todos os Santos,Apto,53,2,1,1,245000,587,1,sim
+Rio de Janeiro,Maria da Graça,Apto,96,2,2,1,260000,794,1,sim
+Rio de Janeiro,Del Castilho,Apto,46,2,1,1,250000,450,3,não
+Rio de Janeiro,Méier,Casa,251,3,3,2,550000,158,0,não
+Rio de Janeiro,Leblon,Apto,70,2,2,0,1600000,1000,7,sim
+Rio de Janeiro,Todos os Santos,Casa,120,3,2,0,290000,0,0,não
+Rio de Janeiro,Cascadura,Apto,70,3,1,0,160000,100,3,não
+Rio de Janeiro,Méier,Apto,175,4,5,4,1300000,3500,22,sim
+Rio de Janeiro,Pechincha,Casa,324,4,4,1,589830,80,1,não
+Rio de Janeiro,Copacabana,Apto,134,3,3,1,1199550,2000,19,sim
+Rio de Janeiro,Humaitá,Apto,141,2,4,1,2380000,1732,15,sim
+Rio de Janeiro,Santa Teresa,Apto,80,2,1,1,389130,740,1,sim
+Rio de Janeiro,Jardim Botânico,Casa,394,4,6,1,3700000,1,2,não
+Rio de Janeiro,Humaitá,Apto,100,3,4,1,1240000,1350,2,sim
+Rio de Janeiro,Santa Teresa,Apto,27,1,1,0,340000,570,4,não
+Rio de Janeiro,Botafogo,Apto,18,1,1,0,500000,595,5,não
+Rio de Janeiro,Leblon,Apto,53,2,3,1,2777777,1200,2,sim
+Rio de Janeiro,Copacabana,Apto,156,3,1,1,1939600,2200,18,sim
+Rio de Janeiro,Laranjeiras,Apto,63,2,3,0,1200000,950,5,sim
+Rio de Janeiro,Centro,Apto,30,1,1,0,400000,600,14,sim
+Rio de Janeiro,Tijuca,Apto,72,2,1,1,480000,1015,1,sim
+Rio de Janeiro,Tijuca,Apto,89,3,3,1,450000,1355,1,sim
+Rio de Janeiro,Tijuca,Casa,181,6,4,4,890000,0,2,não
+Rio de Janeiro,Tijuca,Apto,99,3,3,1,1099000,1200,7,sim
+Rio de Janeiro,Vila Isabel,Casa,117,3,1,2,410000,0,0,não
+Rio de Janeiro,Vila Isabel,Apto,118,3,2,1,698000,1250,12,sim
+Rio de Janeiro,Tijuca,Apto,180,3,4,1,950000,2350,4,sim
+Rio de Janeiro,Centro,Apto,21,1,1,0,150000,430,3,não
+Rio de Janeiro,Cachambi,Apto,68,2,2,1,260000,600,4,não
+Rio de Janeiro,Copacabana,Apto,33,1,1,0,610000,600,16,sim
+Rio de Janeiro,Vila Isabel,Apto,150,4,3,2,798000,900,5,sim
+Rio de Janeiro,Anil,Apto,65,2,2,0,198000,130,2,não
+Rio de Janeiro,Copacabana,Apto,360,6,4,1,2350000,3400,21,sim
+Rio de Janeiro,Vila Isabel,Apto,67,2,2,1,529,900,8,sim
+Rio de Janeiro,Tijuca,Apto,90,3,3,1,750000,1063,9,sim
+Rio de Janeiro,Méier,Apto,77,2,1,1,350000,972,7,sim
+Rio de Janeiro,Copacabana,Apto,82,2,2,0,900000,925,2,sim
+Rio de Janeiro,Copacabana,Apto,100,3,3,0,1200000,1361,3,sim
+Rio de Janeiro,Méier,Casa,108,3,3,0,450000,0,0,não
+Rio de Janeiro,Tijuca,Apto,90,3,1,1,300000,880,1,sim
+Rio de Janeiro,Tijuca,Apto,85,3,2,1,660000,1260,3,sim
+Rio de Janeiro,Copacabana,Apto,150,3,3,1,2100000,2600,3,sim
+Rio de Janeiro,Copacabana,Apto,75,2,2,2,809999,900,3,sim
+Rio de Janeiro,Barra da Tijuca,Apto,205,4,4,1,2800000,3400,19,sim
+Rio de Janeiro,Flamengo,Apto,100,3,2,1,1390000,1400,1,sim
+Rio de Janeiro,Anil,Apto,48,2,1,1,268000,650,4,não
+Rio de Janeiro,Barra Olímpica,Apto,70,2,2,1,890000,1150,12,sim
+Rio de Janeiro,Tijuca,Apto,88,3,3,1,490000,1300,8,sim
+Rio de Janeiro,Copacabana,Apto,68,2,2,0,949000,1400,14,sim
+Rio de Janeiro,Copacabana,Apto,270,3,5,2,1947000,2603,3,sim
+Rio de Janeiro,Copacabana,Apto,208,3,2,1,1400000,3900,7,sim
+Rio de Janeiro,Anil,Apto,49,2,1,1,280000,550,9,não
+Rio de Janeiro,Glória,Apto,70,2,2,1,650000,1100,4,não
+Rio de Janeiro,Lagoa,Apto,140,4,3,1,2200000,1750,5,sim
+Rio de Janeiro,Copacabana,Apto,85,3,1,1,750000,1130,3,não
+Rio de Janeiro,Flamengo,Apto,143,3,4,1,1899999,1577,10,sim
+Rio de Janeiro,Copacabana,Apto,126,4,4,1,1490000,2045,10,sim
+Rio de Janeiro,Copacabana,Apto,300,3,3,1,2400000,1700,11,sim
+Rio de Janeiro,Santa Teresa,Casa,400,8,4,2,1050000,0,2,não
+Rio de Janeiro,Tijuca,Apto,160,4,4,4,1190000,2112,8,sim
+Rio de Janeiro,Leblon,Apto,153,4,4,3,3200000,2150,11,sim
+Rio de Janeiro,Lagoa,Apto,259,4,8,2,5003210,3626,1,sim
+Rio de Janeiro,Ipanema,Apto,120,3,3,1,3050000,2500,6,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,119,4,6,2,1180000,1800,14,sim
+Rio de Janeiro,Barra da Tijuca,Apto,281,4,6,4,9000000,9000,12,sim
+Rio de Janeiro,Vila Isabel,Casa,144,4,2,0,559000,80,0,sim
+Rio de Janeiro,Tijuca,Apto,148,3,3,2,1100000,2200,16,sim
+Rio de Janeiro,Tijuca,Apto,90,2,2,0,465000,500,4,sim
+Rio de Janeiro,Andaraí,Apto,87,2,1,1,550000,1103,7,sim
+Rio de Janeiro,Tijuca,Apto,93,2,2,1,990000,1200,12,sim
+Rio de Janeiro,Maracanã,Apto,90,3,2,1,470000,950,3,sim
+Rio de Janeiro,Grajaú,Apto,70,2,2,0,280000,819,2,sim
+Rio de Janeiro,Rio Comprido,Apto,50,2,1,1,258000,480,4,não
+Rio de Janeiro,Rio Comprido,Apto,65,2,1,1,375000,1150,1,sim
+Rio de Janeiro,Grajaú,Apto,174,2,1,1,749000,900,6,não
+Rio de Janeiro,Vila Isabel,Apto,98,3,2,1,475000,542,2,não
+Rio de Janeiro,Tijuca,Apto,110,3,3,0,400000,400,1,não
+Rio de Janeiro,Praça da Bandeira,Apto,90,3,2,1,1150000,895,4,não
+Rio de Janeiro,Botafogo,Apto,35,1,1,0,385000,800,10,não
+Rio de Janeiro,Maracanã,Casa,360,6,6,1,900000,70,3,não
+Rio de Janeiro,Lins de Vasconcelos,Apto,65,2,2,1,220000,630,1,não
+Rio de Janeiro,Vila Isabel,Apto,82,3,2,0,280000,674,6,não
+Rio de Janeiro,Taquara,Apto,32,1,1,1,230000,1050,8,não
+Rio de Janeiro,Méier,Apto,173,4,3,2,600000,1400,17,sim
+Rio de Janeiro,Leblon,Apto,55,2,2,0,1450000,770,2,não
+Rio de Janeiro,Laranjeiras,Apto,169,3,4,2,1900000,1798,5,sim
+Rio de Janeiro,Flamengo,Apto,86,3,3,1,990000,1241,15,sim
+Rio de Janeiro,Centro,Apto,56,1,2,0,398000,806,14,sim
+Rio de Janeiro,Ipanema,Apto,105,4,4,1,2950000,3150,23,sim
+Rio de Janeiro,Gávea,Apto,99,3,3,1,1420000,1350,1,sim
+Rio de Janeiro,Glória,Apto,50,1,1,0,525000,750,11,sim
+Rio de Janeiro,Barra Olímpica,Apto,78,3,2,1,730000,920,20,sim
+Rio de Janeiro,Barra da Tijuca,Apto,268,4,6,4,6530000,5000,17,sim
+Rio de Janeiro,Anil,Apto,61,2,2,1,353000,723,11,sim
+Rio de Janeiro,Vila da Penha,Casa,271,4,3,3,680000,0,3,não
+Rio de Janeiro,Irajá,Apto,70,3,1,0,170000,123,3,não
+Rio de Janeiro,Vila da Penha,Apto,54,1,1,0,180000,10,1,não
+Rio de Janeiro,Irajá,Apto,80,2,2,1,370000,482,2,não
+Rio de Janeiro,Irajá,Apto,165,3,3,2,850000,800,4,não
+Rio de Janeiro,Vila da Penha,Casa,224,4,3,3,1300000,0,2,não
+Rio de Janeiro,Penha,Apto,81,2,3,1,325000,610,9,não
+Rio de Janeiro,Barra da Tijuca,Apto,381,4,6,4,10390000,8036,11,sim
+Rio de Janeiro,Bento Ribeiro,Apto,80,2,1,0,178000,450,2,não
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,82,3,1,1,610000,1200,5,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,101,3,2,2,850000,1300,2,sim
+Rio de Janeiro,Praça Seca,Apto,245,4,4,2,488000,2180,4,sim
+Rio de Janeiro,Engenho Novo,Casa,69,2,1,0,159000,0,0,não
+Rio de Janeiro,Barra Olímpica,Apto,71,2,2,1,680000,1800,3,sim
+Rio de Janeiro,São Cristóvão,Apto,44,1,1,1,342000,359,7,sim
+Rio de Janeiro,Grajaú,Apto,122,3,1,1,750000,1588,6,não
+Rio de Janeiro,Anil,Casa,350,4,4,3,1200000,150,2,não
+Rio de Janeiro,Barra da Tijuca,Casa,1868,8,10,6,7390000,2890,3,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,120,3,1,2,958000,2300,10,sim
+Rio de Janeiro,Copacabana,Apto,196,3,3,1,1899000,1960,5,sim
+Rio de Janeiro,Freguesia (Jacarepaguá),Apto,80,3,2,1,530000,900,2,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,248,6,6,4,1200000,0,0,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,100,3,4,1,450000,230,0,não
+Rio de Janeiro,Cosme Velho,Casa,1040,5,5,3,4590000,110,5,sim
+Rio de Janeiro,Taquara,Apto,65,2,2,1,429000,700,2,sim
+Rio de Janeiro,Tijuca,Apto,100,2,2,1,849000,800,9,sim
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,114,3,1,1,45000,10,1,sim
+Rio de Janeiro,Rocha Miranda,Apto,39,2,1,0,105000,10,3,não
+Rio de Janeiro,Barra da Tijuca,Apto,65,2,1,1,785000,1780,10,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Casa,300,3,3,4,2510000,1,1,não
+Rio de Janeiro,Tanque,Casa,238,2,1,2,344000,1,1,não
+Rio de Janeiro,Barra da Tijuca,Apto,147,4,4,2,2949000,2300,10,não
+Rio de Janeiro,Barra da Tijuca,Casa,336,5,5,5,490000,3316,3,não
+Rio de Janeiro,Flamengo,Apto,100,3,2,1,1500000,18000,11,sim
+Rio de Janeiro,Copacabana,Apto,36,1,1,0,480000,690,9,sim
+Rio de Janeiro,Barra da Tijuca,Apto,113,3,4,2,1180000,1825,19,sim
+Rio de Janeiro,Barra da Tijuca,Apto,128,3,3,2,2180000,1998,8,sim
+Rio de Janeiro,Copacabana,Apto,170,3,4,1,1900000,1800,11,sim
+Rio de Janeiro,Leblon,Apto,135,3,3,0,2100000,840,4,não
+Rio de Janeiro,Leblon,Apto,94,4,3,1,1750000,1407,6,sim
+Rio de Janeiro,Copacabana,Apto,101,2,1,1,2000000,2100,5,sim
+Rio de Janeiro,Copacabana,Apto,83,2,1,1,1070000,1001,1,não
+Rio de Janeiro,Leblon,Apto,62,2,3,1,1800000,1100,18,sim
+Rio de Janeiro,Copacabana,Apto,185,3,3,1,1850000,2450,18,sim
+Rio de Janeiro,Copacabana,Apto,114,4,3,2,1400000,1300,13,sim
+Rio de Janeiro,Copacabana,Apto,160,4,3,2,1680000,2000,20,não
+Rio de Janeiro,Ipanema,Apto,78,2,3,1,1800000,1590,1,sim
+Rio de Janeiro,Urca,Casa,256,2,5,4,3200000,5000,1,sim
+Rio de Janeiro,Leblon,Apto,117,3,2,2,3100000,1970,4,sim
+Rio de Janeiro,Copacabana,Apto,98,3,2,1,1250000,2100,19,sim
+Rio de Janeiro,Ipanema,Apto,68,2,3,1,980000,1300,19,sim
+Rio de Janeiro,Copacabana,Apto,147,3,4,1,2100000,1955,11,não
+Rio de Janeiro,Copacabana,Casa,143,3,2,1,1450000,2000,1,não
+Rio de Janeiro,Ipanema,Apto,277,3,4,2,3490000,3000,20,sim
+Rio de Janeiro,Copacabana,Apto,260,4,5,2,3000000,2400,5,sim
+Rio de Janeiro,Copacabana,Apto,120,2,4,1,1420000,1567,16,sim
+Rio de Janeiro,Ipanema,Apto,109,2,3,2,1600000,1570,2,sim
+Rio de Janeiro,Copacabana,Apto,223,3,3,2,1600000,3500,18,sim
+Rio de Janeiro,Ipanema,Apto,100,3,3,1,1900000,2600,2,sim
+Rio de Janeiro,Gávea,Apto,94,2,1,1,1300000,1000,3,sim
+Rio de Janeiro,Copacabana,Apto,140,3,3,1,2300000,2400,2,sim
+Rio de Janeiro,Copacabana,Apto,95,3,2,1,1450000,1580,8,sim
+Rio de Janeiro,Anil,Casa,335,4,4,4,2250000,1158,2,não
+Rio de Janeiro,Botafogo,Apto,35,1,1,0,385000,800,10,não
+Rio de Janeiro,Barra Olímpica,Apto,76,3,3,2,650000,1300,16,sim
+Rio de Janeiro,Andaraí,Apto,59,2,2,1,450000,850,1,não
+Rio de Janeiro,Tijuca,Apto,61,2,2,1,580000,950,3,não
+Rio de Janeiro,Barra da Tijuca,Apto,190,3,5,2,2950000,2890,4,sim
+Rio de Janeiro,Barra da Tijuca,Apto,310,4,3,3,5900000,4800,6,sim
+Rio de Janeiro,Barra da Tijuca,Apto,74,2,2,1,1400000,1600,13,sim
+Rio de Janeiro,Méier,Apto,31,1,1,1,190000,511,4,não
+Rio de Janeiro,Méier,Apto,62,2,3,1,280000,597,7,não
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,231,3,4,2,1380000,1491,10,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,192,2,4,2,1190000,2000,11,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,190,3,4,3,1450000,1950,5,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,103,3,3,2,1050000,1550,20,sim
+Rio de Janeiro,Barra da Tijuca,Apto,817,4,5,5,13950000,3942,3,sim
+Rio de Janeiro,Méier,Apto,92,3,3,3,530000,125,2,não
+Rio de Janeiro,Méier,Casa,156,4,4,1,550000,160,3,não
+Rio de Janeiro,Méier,Apto,65,3,2,1,270000,850,8,sim
+Rio de Janeiro,Lins de Vasconcelos,Apto,65,3,2,1,210000,450,3,não
+Rio de Janeiro,Botafogo,Apto,138,3,3,2,1750000,1470,14,sim
+Rio de Janeiro,São Cristóvão,Apto,72,2,1,0,350000,509,4,não
+Rio de Janeiro,Méier,Apto,182,3,5,2,1150000,2059,11,sim
+Rio de Janeiro,Méier,Apto,123,2,2,1,430000,1117,13,sim
+Rio de Janeiro,Todos os Santos,Apto,57,2,2,1,450000,842,3,sim
+Rio de Janeiro,Todos os Santos,Apto,70,2,2,0,259000,0,1,não
+Rio de Janeiro,Cachambi,Apto,63,2,1,1,315000,800,1,sim
+Rio de Janeiro,Irajá,Apto,45,2,1,1,295000,610,8,sim
+Rio de Janeiro,Lins de Vasconcelos,Apto,60,2,2,1,290000,870,7,sim
+Rio de Janeiro,Méier,Apto,95,3,4,1,390000,800,3,não
+Rio de Janeiro,Lins de Vasconcelos,Casa,215,3,2,5,525000,0,0,não
+Rio de Janeiro,Praça Seca,Apto,60,2,2,1,175000,630,5,sim
+Rio de Janeiro,Méier,Apto,103,2,2,1,435000,400,3,sim
+Rio de Janeiro,Méier,Apto,73,2,2,1,265000,800,4,sim
+Rio de Janeiro,Méier,Apto,83,3,3,1,520000,1179,9,sim
+Rio de Janeiro,Barra Olímpica,Apto,150,4,4,2,1499000,2000,20,sim
+Rio de Janeiro,Vila Isabel,Apto,67,2,2,1,300000,776,2,sim
+Rio de Janeiro,Gávea,Apto,83,2,3,2,1500000,2090,2,sim
+Rio de Janeiro,Leblon,Apto,120,2,2,0,1800000,1450,8,não
+Rio de Janeiro,Rio Comprido,Apto,140,1,1,2,550000,1440,4,não
+Rio de Janeiro,Leblon,Apto,222,4,1,2,7990000,6200,2,sim
+Rio de Janeiro,Ipanema,Apto,330,3,2,2,18500000,3900,6,sim
+Rio de Janeiro,Botafogo,Apto,216,3,3,2,3250000,2350,11,sim
+Rio de Janeiro,Tijuca,Apto,143,3,3,1,770000,2060,3,sim
+Rio de Janeiro,Barra da Tijuca,Apto,165,3,1,2,1800000,749,2,não
+Rio de Janeiro,Tijuca,Apto,83,3,3,1,690000,1177,7,não
+Rio de Janeiro,Jardim Botânico,Casa,450,4,1,4,9750000,0,2,não
+Rio de Janeiro,Centro,Apto,42,1,1,0,315000,370,11,sim
+Rio de Janeiro,Flamengo,Apto,233,4,5,0,2620000,2850,4,sim
+Rio de Janeiro,Tijuca,Apto,170,3,3,1,790000,1600,3,não
+Rio de Janeiro,Tijuca,Apto,110,3,3,0,400000,400,2,não
+Rio de Janeiro,Tijuca,Apto,84,2,2,1,990000,1255,10,não
+Rio de Janeiro,Tijuca,Apto,170,4,2,2,1780000,1500,4,sim
+Rio de Janeiro,Laranjeiras,Apto,75,3,1,0,700000,928,2,não
+Rio de Janeiro,Gávea,Casa,383,4,2,4,3800000,0,2,não
+Rio de Janeiro,Lagoa,Apto,247,4,2,2,2700000,3000,6,sim
+Rio de Janeiro,Ipanema,Apto,50,1,1,1,950000,771,3,sim
+Rio de Janeiro,Lagoa,Apto,94,2,2,1,1390000,1963,2,sim
+Rio de Janeiro,Barra Olímpica,Apto,68,2,2,1,530000,810,11,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,90,2,2,1,625000,1400,11,sim
+Rio de Janeiro,Copacabana,Apto,350,4,1,1,2500000,5232,2,sim
+Rio de Janeiro,Humaitá,Apto,150,3,3,1,2200000,1705,6,sim
+Rio de Janeiro,Flamengo,Apto,85,3,1,1,850000,1080,3,não
+Rio de Janeiro,Barra da Tijuca,Apto,110,3,2,2,1630000,2652,9,sim
+Rio de Janeiro,Copacabana,Apto,60,2,1,0,950000,1200,4,não
+Rio de Janeiro,Barra da Tijuca,Apto,430,4,1,3,2180000,3500,4,sim
+Rio de Janeiro,Gávea,Casa,1050,8,10,5,6000000,550,3,não
+Rio de Janeiro,Humaitá,Apto,145,3,2,2,2400000,2500,3,sim
+Rio de Janeiro,Barra da Tijuca,Apto,422,4,1,3,6000000,3860,14,sim
+Rio de Janeiro,Lagoa,Apto,118,3,5,1,1574000,1780,1,sim
+Rio de Janeiro,Taquara,Casa,150,3,4,3,380000,150,2,não
+Rio de Janeiro,Jardim Botânico,Casa,370,4,3,2,4950000,0,2,não
+Rio de Janeiro,Tijuca,Apto,148,2,3,1,820000,774,10,não
+Rio de Janeiro,Abolição,Casa,78,2,1,2,370000,0,0,não
+Rio de Janeiro,Quintino de Bocaiúva,Casa,141,2,2,1,290000,0,0,não
+Rio de Janeiro,Méier,Apto,58,2,1,1,165000,530,7,não
+Rio de Janeiro,Méier,Apto,90,3,2,1,550000,1291,6,não
+Rio de Janeiro,Engenho de Dentro,Apto,83,3,2,1,380000,750,7,sim
+Rio de Janeiro,Cascadura,Apto,49,2,2,1,260000,1150,6,não
+Rio de Janeiro,Engenho de Dentro,Apto,50,2,1,1,180000,200,3,não
+Rio de Janeiro,Méier,Apto,84,3,3,1,340000,938,3,sim
+Rio de Janeiro,Méier,Apto,60,2,1,0,240000,280,2,não
+Rio de Janeiro,Todos os Santos,Apto,118,3,4,2,625000,1665,7,sim
+Rio de Janeiro,Todos os Santos,Apto,53,2,1,1,245000,587,1,não
+Rio de Janeiro,Barra da Tijuca,Apto,286,3,3,2,2940000,2200,5,sim
+Rio de Janeiro,Barra da Tijuca,Casa,693,6,6,6,3000000,2575,2,não
+Rio de Janeiro,Barra da Tijuca,Casa,150,4,1,2,2480000,3000,4,sim
+Rio de Janeiro,Barra da Tijuca,Apto,179,3,4,2,1820000,2150,1,sim
+Rio de Janeiro,Barra da Tijuca,Apto,160,3,2,2,2099999,1900,4,sim
+Rio de Janeiro,Tijuca,Apto,102,3,2,0,390000,440,2,não
+Rio de Janeiro,Vila Isabel,Apto,65,2,2,1,350000,855,1,sim
+Rio de Janeiro,Tijuca,Apto,114,3,3,2,840000,1925,2,sim
+Rio de Janeiro,Tijuca,Apto,104,3,2,1,860000,1215,8,não
+Rio de Janeiro,Tijuca,Apto,114,2,2,3,840000,1925,19,sim
+Rio de Janeiro,Tijuca,Apto,181,4,4,3,1700000,2000,5,sim
+Rio de Janeiro,Tijuca,Apto,150,3,4,2,1500000,2800,3,sim
+Rio de Janeiro,Tijuca,Apto,179,4,4,3,1260000,2900,14,sim
+Rio de Janeiro,Vila Isabel,Apto,88,3,3,1,900000,1466,13,sim
+Rio de Janeiro,Tijuca,Apto,100,2,2,0,455000,783,9,sim
+Rio de Janeiro,Maracanã,Apto,150,3,3,2,1280000,2860,4,sim
+Rio de Janeiro,Maracanã,Apto,69,2,3,1,610000,1450,5,sim
+Rio de Janeiro,Tijuca,Apto,150,3,2,1,790000,1195,4,não
+Rio de Janeiro,Barra da Tijuca,Apto,262,3,5,4,3179999,2500,10,sim
+Rio de Janeiro,Barra da Tijuca,Apto,182,3,5,4,2499999,3031,11,sim
+Rio de Janeiro,Méier,Apto,75,3,2,1,350000,1182,17,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,75,3,2,1,550000,1200,7,não
+Rio de Janeiro,Cachambi,Apto,68,2,3,1,319000,1114,6,sim
+Rio de Janeiro,Centro,Apto,30,1,1,0,250000,1100,2,não
+Rio de Janeiro,Cachambi,Apto,65,2,2,1,180000,616,4,não
+Rio de Janeiro,Tomás Coelho,Apto,46,2,1,1,155000,450,5,não
+Rio de Janeiro,Centro,Apto,70,2,2,0,480000,550,9,não
+Rio de Janeiro,Maracanã,Apto,80,2,2,1,543000,743,1,não
+Rio de Janeiro,Tijuca,Apto,69,2,3,3,450000,1399,1,sim
+Rio de Janeiro,Tijuca,Apto,85,3,2,1,500000,785,3,não
+Rio de Janeiro,Riachuelo,Casa,256,1,1,1,210000,0,0,não
+Rio de Janeiro,Cachambi,Apto,82,2,2,1,390000,480,9,não
+Rio de Janeiro,Riachuelo,Casa,94,3,2,1,350000,250,0,não
+Rio de Janeiro,Tijuca,Apto,71,2,2,0,450000,662,7,não
+Rio de Janeiro,Andaraí,Apto,149,3,3,0,480000,414,4,não
+Rio de Janeiro,Tijuca,Apto,105,3,3,1,730000,600,4,não
+Rio de Janeiro,Cachambi,Apto,60,3,3,1,440000,365,3,não
+Rio de Janeiro,Engenho da Rainha,Apto,49,2,1,1,200000,345,8,não
+Rio de Janeiro,Cachambi,Apto,60,2,2,1,369000,1250,6,sim
+Rio de Janeiro,Méier,Apto,91,2,3,2,350000,1200,17,sim
+Rio de Janeiro,Méier,Casa,134,3,3,2,550000,0,2,não
+Rio de Janeiro,Rio Comprido,Apto,75,2,2,1,349000,989,3,não
+Rio de Janeiro,Engenho Novo,Apto,64,1,2,1,170000,437,2,não
+Rio de Janeiro,Vila Isabel,Apto,69,2,2,1,380000,1187,1,sim
+Rio de Janeiro,Engenho Novo,Apto,59,2,2,0,175000,579,1,não
+Rio de Janeiro,Engenho Novo,Casa,65,2,3,0,340000,0,0,não
+Rio de Janeiro,Cascadura,Casa,197,3,4,6,550000,0,1,não
+Rio de Janeiro,Cachambi,Apto,48,3,3,1,500000,0,2,não
+Rio de Janeiro,Engenho Novo,Apto,87,3,2,1,220000,777,1,sim
+Rio de Janeiro,Méier,Apto,82,2,2,1,430000,950,8,não
+Rio de Janeiro,Cascadura,Casa,120,3,4,2,479000,80,2,não
+Rio de Janeiro,Cachambi,Casa,170,6,8,1,800000,115,1,não
+Rio de Janeiro,Riachuelo,Apto,67,2,2,1,260000,1000,3,sim
+Rio de Janeiro,Del Castilho,Apto,45,2,1,1,429000,750,6,sim
+Rio de Janeiro,Cachambi,Apto,55,3,1,0,230000,550,4,não
+Rio de Janeiro,Todos os Santos,Apto,60,2,3,1,260000,800,7,não
+Rio de Janeiro,Tijuca,Apto,54,2,3,1,649000,300,6,não
+Rio de Janeiro,Engenho Novo,Apto,70,2,2,1,290000,600,5,não
+Rio de Janeiro,Tijuca,Apto,75,2,1,1,418000,880,5,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,80,2,3,1,750000,961,2,não
+Rio de Janeiro,Tijuca,Apto,92,3,3,0,359999,1069,1,sim
+Rio de Janeiro,Cachambi,Apto,57,1,2,1,184000,749,3,sim
+Rio de Janeiro,Tijuca,Apto,73,2,2,1,459999,770,3,sim
+Rio de Janeiro,Cachambi,Apto,120,3,2,1,299000,665,7,não
+Rio de Janeiro,Cachambi,Apto,72,2,2,1,230000,702,4,sim
+Rio de Janeiro,Cachambi,Casa,143,3,3,3,900000,0,0,não
+Rio de Janeiro,Abolição,Casa,140,3,2,1,460000,0,0,não
+Rio de Janeiro,Méier,Apto,65,2,1,0,200000,0,2,não
+Rio de Janeiro,Grajaú,Casa,136,4,5,1,750000,163,0,não
+Rio de Janeiro,Cachambi,Casa,127,3,4,1,440000,375,2,não
+Rio de Janeiro,Del Castilho,Apto,77,2,2,1,215000,620,6,não
+Rio de Janeiro,Todos os Santos,Apto,144,2,2,1,580000,1150,1,sim
+Rio de Janeiro,Cascadura,Apto,46,2,1,1,245000,876,8,não
+Rio de Janeiro,Del Castilho,Casa,85,2,1,0,280000,0,0,não
+Rio de Janeiro,Engenho de Dentro,Apto,75,3,2,1,290000,1027,6,sim
+Rio de Janeiro,Engenho de Dentro,Apto,52,2,2,1,180000,861,8,sim
+Rio de Janeiro,Cachambi,Apto,74,3,2,1,300000,778,3,sim
+Rio de Janeiro,Barra Olímpica,Apto,50,2,1,1,335000,500,4,não
+Rio de Janeiro,Quintino de Bocaiúva,Apto,32,2,2,1,112000,700,2,não
+Rio de Janeiro,Barra Olímpica,Apto,200,3,3,2,1050000,1800,7,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,87,3,3,2,600000,870,3,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Apto,80,2,3,1,390000,1111,4,sim
+Rio de Janeiro,Barra Olímpica,Apto,131,3,4,2,1260000,1570,3,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,365,3,5,2,1490000,1910,7,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Casa,350,6,9,3,3650000,697,2,não
+Rio de Janeiro,Recreio dos Bandeirantes,Casa,293,4,5,4,1750000,6260,2,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,69,2,2,1,595000,1091,12,sim
+Rio de Janeiro,Maracanã,Apto,90,3,2,1,560000,600,4,não
+Rio de Janeiro,Tijuca,Apto,143,3,3,1,1280000,1600,1,sim
+Rio de Janeiro,Vila Isabel,Apto,80,2,2,1,320000,980,8,não
+Rio de Janeiro,Engenho de Dentro,Apto,45,2,1,1,330000,390,13,não
+Rio de Janeiro,Vila Isabel,Apto,67,2,2,1,529000,900,6,não
+Rio de Janeiro,Tijuca,Apto,90,3,3,1,750000,1063,7,não
+Rio de Janeiro,Barra da Tijuca,Apto,60,1,1,1,1500000,2800,1,sim
+Rio de Janeiro,Barra da Tijuca,Apto,100,2,3,1,2700000,5500,14,sim
+Rio de Janeiro,Barra da Tijuca,Apto,52,1,1,1,820000,2800,3,sim
+Rio de Janeiro,Vila Isabel,Apto,86,2,1,1,580000,950,4,não
+Rio de Janeiro,Maracanã,Apto,65,2,2,0,430000,867,5,não
+Rio de Janeiro,Grajaú,Casa,214,4,4,3,1160000,2771,7,sim
+Rio de Janeiro,Tijuca,Apto,100,3,3,1,580000,1000,2,não
+Rio de Janeiro,Tijuca,Apto,70,2,1,1,446500,1098,3,não
+Rio de Janeiro,Copacabana,Apto,75,2,3,2,809999,900,11,sim
+Rio de Janeiro,Barra da Tijuca,Apto,116,3,4,2,1300000,1320,1,sim
+Rio de Janeiro,Copacabana,Apto,80,3,1,1,830000,1300,5,sim
+Rio de Janeiro,Tijuca,Apto,94,3,2,1,1050000,1250,3,sim
+Rio de Janeiro,Humaitá,Apto,81,3,2,1,1380000,1529,6,sim
+Rio de Janeiro,Anil,Casa,193,3,3,2,420000,10,2,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,119,5,4,4,985000,1285,2,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,736,5,5,6,1100000,677,2,não
+Rio de Janeiro,Tanque,Apto,158,3,1,1,700000,16000,6,sim
+Rio de Janeiro,Freguesia (Jacarepaguá),Casa,130,3,3,1,450000,0,1,não
+Rio de Janeiro,Anil,Casa,330,4,5,2,1390000,463,2,não
+Rio de Janeiro,Flamengo,Apto,290,4,4,2,3290000,2493,17,sim
+Rio de Janeiro,Copacabana,Apto,47,1,1,0,690000,867,9,não
+Rio de Janeiro,Copacabana,Apto,83,3,3,0,945000,906,3,não
+Rio de Janeiro,Maracanã,Apto,70,2,3,1,459000,1279,3,não
+Rio de Janeiro,Vila Isabel,Apto,80,3,1,0,369000,530,5,não
+Rio de Janeiro,Barra da Tijuca,Apto,106,3,3,1,2350000,3029,17,sim
+Rio de Janeiro,Ipanema,Apto,186,4,6,3,5450000,3025,14,sim
+Rio de Janeiro,Ipanema,Apto,108,3,3,1,3600000,2490,6,sim
+Rio de Janeiro,Leblon,Apto,148,3,1,1,2800,2713,1,sim
+Rio de Janeiro,Lagoa,Apto,108,3,3,1,2140000,2122,6,sim
+Rio de Janeiro,Leblon,Apto,101,3,3,1,2790000,1500,3,sim
+Rio de Janeiro,Lagoa,Apto,126,3,4,1,2500000,1856,4,sim
+Rio de Janeiro,Gávea,Apto,138,3,3,1,2500000,1800,3,sim
+Rio de Janeiro,Copacabana,Apto,130,3,3,1,1100000,1600,12,sim
+Rio de Janeiro,Copacabana,Apto,113,2,2,2,2097000,1350,11,sim
+Rio de Janeiro,Jardim Botânico,Apto,114,3,2,1,1400000,650,3,não
+Rio de Janeiro,Gávea,Apto,83,2,3,2,1500000,2090,3,sim
+Rio de Janeiro,Ipanema,Apto,80,1,2,1,1890000,1300,2,não
+Rio de Janeiro,Vila da Penha,Casa,159,2,3,1,430000,0,2,não
+Rio de Janeiro,Cachambi,Apto,140,3,3,2,460000,1430,8,sim
+Rio de Janeiro,Barra da Tijuca,Apto,222,3,3,3,3400000,4645,8,sim
+Rio de Janeiro,Catete,Apto,66,2,2,1,798000,1352,15,não
+Rio de Janeiro,Méier,Apto,114,2,2,2,530000,820,4,não
+Rio de Janeiro,Ipanema,Apto,46,1,1,0,950000,1130,6,sim
+Rio de Janeiro,Laranjeiras,Apto,195,3,4,4,2090000,2890,17,sim
+Rio de Janeiro,Flamengo,Apto,175,4,3,1,1850000,2200,7,sim
+Rio de Janeiro,São Conrado,Apto,261,4,4,2,4000000,5637,10,sim
+Rio de Janeiro,Barra da Tijuca,Casa,438,4,5,3,5500000,5000,3,sim
+Rio de Janeiro,Flamengo,Apto,191,3,3,1,1890000,2000,6,sim
+Rio de Janeiro,Flamengo,Apto,100,3,3,1,1250000,1400,2,sim
+Rio de Janeiro,Urca,Apto,50,1,1,0,1100000,750,3,não
+Rio de Janeiro,Copacabana,Apto,156,3,3,2,2190000,2700,13,sim
+Rio de Janeiro,Leblon,Apto,155,3,6,2,4250000,3500,2,sim
+Rio de Janeiro,Ipanema,Apto,55,1,2,1,1100000,900,13,sim
+Rio de Janeiro,Gávea,Apto,39,1,1,0,695000,650,5,sim
+Rio de Janeiro,Gávea,Apto,105,2,2,1,2500000,2300,3,sim
+Rio de Janeiro,Laranjeiras,Apto,75,2,3,1,980000,2700,5,não
+Rio de Janeiro,Copacabana,Apto,45,2,2,0,750000,900,5,sim
+Rio de Janeiro,Catete,Apto,59,2,2,0,545000,870,8,não
+Rio de Janeiro,Flamengo,Apto,118,2,2,0,895000,1280,7,não
+Rio de Janeiro,Freguesia (Jacarepaguá),Apto,54,1,1,1,231000,671,4,não
+Rio de Janeiro,Tijuca,Apto,50,1,1,0,549000,0,1,não
+Rio de Janeiro,Leblon,Apto,45,1,1,0,890000,750,6,não
+Rio de Janeiro,Jardim Botânico,Apto,79,2,1,0,650000,1000,1,sim
+Rio de Janeiro,Leblon,Apto,150,3,3,2,3750000,4500,2,sim
+Rio de Janeiro,Lagoa,Apto,92,2,3,1,1370000,1417,13,sim
+Rio de Janeiro,Ipanema,Apto,60,2,3,1,1750000,1147,4,não
+Rio de Janeiro,Jardim Botânico,Apto,60,2,2,0,650000,1200,3,não
+Rio de Janeiro,Leblon,Apto,78,2,2,0,1490000,800,8,não
+Rio de Janeiro,Grajaú,Apto,100,3,2,1,585000,1158,7,sim
+Rio de Janeiro,Lins de Vasconcelos,Apto,78,2,2,1,240000,966,8,sim
+Rio de Janeiro,Del Castilho,Apto,50,2,2,1,309000,927,1,sim
+Rio de Janeiro,Taquara,Apto,79,2,2,1,320000,1250,4,sim
+Rio de Janeiro,Cachambi,Apto,70,2,2,1,330000,890,5,sim
+Rio de Janeiro,Méier,Apto,68,2,2,0,350000,665,5,não
+Rio de Janeiro,Quintino de Bocaiúva,Apto,72,3,1,1,230000,300,2,não
+Rio de Janeiro,Méier,Apto,226,3,3,4,950000,2306,7,sim
+Rio de Janeiro,Engenho Novo,Casa,184,3,4,3,450000,1247,1,não
+Rio de Janeiro,Barra da Tijuca,Apto,121,3,5,0,1890000,1850,3,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,300,3,6,4,2320000,1651,2,sim
+Rio de Janeiro,Recreio dos Bandeirantes,Apto,90,2,3,1,1250000,1580,2,sim
+Rio de Janeiro,Copacabana,Apto,360,5,7,1,2800000,2530,3,sim
+Rio de Janeiro,Engenho de Dentro,Casa,117,2,5,1,350000,10,2,não
+Rio de Janeiro,Riachuelo,Apto,77,3,2,1,385000,1118,9,não
+Rio de Janeiro,Vila Isabel,Apto,180,4,4,2,798000,1000,3,não
+Rio de Janeiro,Rio Comprido,Casa,160,4,6,2,800000,0,2,não
+Rio de Janeiro,Todos os Santos,Apto,62,2,1,1,200000,840,6,sim
+Rio de Janeiro,Copacabana,Apto,100,3,2,0,1100000,1700,9,sim
+Rio de Janeiro,Méier,Apto,64,2,1,0,240000,800,14,sim
+Rio de Janeiro,Flamengo,Apto,190,3,3,1,2100000,2100,12,sim
+Rio de Janeiro,Abolição,Apto,63,3,1,0,200000,240,3,não
+Rio de Janeiro,Lins de Vasconcelos,Apto,74,2,2,1,197000,724,4,não
+Rio de Janeiro,Cachambi,Apto,101,2,2,1,300000,700,4,não
+Rio de Janeiro,Todos os Santos,Apto,56,3,2,0,200000,797,7,não
+Rio de Janeiro,Engenho Novo,Apto,62,1,2,1,160000,754,6,não
