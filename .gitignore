@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Power BI (arquivos temporários de cache, se algum dia usar Power BI Desktop local)
+*.pbix.bak
