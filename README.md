@@ -53,7 +53,7 @@ Além do modelo preditivo, o projeto conta com um dashboard em Power BI que cruz
 - Comparação entre preço real e preço previsto por região
 - Filtros por bairro, tipo de imóvel, status (venda/aluguel), prioridade e origem/status dos leads
 
-![Dashboard](images/dashboard.png)
+![Dashboard](imagens/dashboard.png)
 
 O arquivo completo do dashboard está disponível em [`dashboard/dashboard-imoveis-knn-r.pbix`](dashboard/dashboard-imoveis-knn-r.pbix).
 
