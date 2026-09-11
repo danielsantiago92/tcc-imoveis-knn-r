@@ -36,7 +36,7 @@ O dataset contém características de imóveis (área, quartos, banheiros, vagas
 | R² (Coeficiente de Determinação) | **0,785** |
 | MAE (Erro Absoluto Médio) | **R$ 359.161,97** |
 
-![Resultado do Modelo](images/resultados-modelo.png)
+![Resultado do Modelo](imagens/resultados-modelo.png)
 
 ##  Exemplo de Previsão
 
